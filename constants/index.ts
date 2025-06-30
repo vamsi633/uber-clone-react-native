@@ -37,6 +37,7 @@ export const images = {
   onboarding2,
   onboarding3,
   getStarted,
+  
   signUpCar,
   check,
   noResult,
